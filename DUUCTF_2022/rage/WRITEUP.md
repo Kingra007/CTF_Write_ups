@@ -14,7 +14,7 @@ A raging Real Wild Child!
 
 ### Steps followed to attain flag
 
-We are provided with an audio file `insert link to rage.wav` that when played sounds familiar and has what sounds like Morse Code is included.
+We are provided with an audio file [rage.wav](DUUCTF_2022/rage/rage.wav) that when played sounds familiar and has what sounds like Morse Code is included.
 
 
 First step is to slow down the play speed to make it easier to follow.
